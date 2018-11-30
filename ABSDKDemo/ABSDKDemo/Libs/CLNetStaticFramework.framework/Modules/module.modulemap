@@ -1,0 +1,6 @@
+framework module CLNetStaticFramework {
+  umbrella header "CLNetStaticFramework.h"
+
+  export *
+  module * { export * }
+}
